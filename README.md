@@ -3,7 +3,7 @@ based on steps from https://angular.io/start
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-kkctmd)
 
-## Runnning Locally
+## Running Locally
 
 1. `npm install`
 2. Serve using `ng serve`
